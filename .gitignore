@@ -6,12 +6,8 @@ __pycache__/
 venv/
 .venv/
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
-
-# Large model files (optional — uncomment if too big for GitHub)
-# tsla_lstm_best.keras
-# tsla_scaler.pkl
 
 # OS
 .DS_Store

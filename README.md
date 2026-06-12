@@ -12,11 +12,16 @@
 
 *Predicts TSLA closing prices 1, 5, and 10 days ahead — with an interactive terminal-style dashboard showing everything in Indian Rupees.*
 
-[**Live Demo →**](https://your-app.streamlit.app) &nbsp;·&nbsp; [Notebook](Tesla_TSLA_Submission.ipynb) &nbsp;·&nbsp; [Report](#results)
+[**Live Demo →**](https://tesla-stock-prediction08.onrender.com/) &nbsp;·&nbsp; [Notebook](Tesla_TSLA_Submission.ipynb) &nbsp;·&nbsp; [Report](#results)
 
 </div>
 
 ---
+## DEMO IMAGES OF PROJECT
+
+<img width="1894" height="940" alt="Screenshot 2026-06-12 175847" src="https://github.com/user-attachments/assets/d700cb18-2f25-4054-b86b-488dcf20676f" />
+<img width="1915" height="904" alt="Screenshot 2026-06-12 175913" src="https://github.com/user-attachments/assets/51ae14b6-a285-4a35-b544-d4034a9e5df9" />
+
 
 ## What this project does
 
